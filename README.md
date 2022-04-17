@@ -1,3 +1,6 @@
 # Current state of the publicly available cyanobacteria sequencing database analysis
 
-This repo contains and describes the scripts used in the paper above
+## Contents:
+ * Processing of sequencing data: `scripts/workflow.pdf`
+ * Reaction/enzyme annotation with Metacyc: `scripts/identify_enzymes/README.md`
+ * TSNE with Jaccard: `notebooks/tsne_with_jaccard.ipynb`
